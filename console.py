@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This file defines the console class which will
+This file defines the console class and it will
 serve as the entry point of the entire project
 """
 from cmd import Cmd
