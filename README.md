@@ -1,5 +1,5 @@
 This is a team work in this projects called "AirBnB_clone".
-AUTHORS JEROME UDOH AND Oluwasegun Olawale Benjamin.
+AUTHORS JEROME UDOH and Oluwasegun Olawale BENJAMIN.
 The repo was created by Jerome Udoh with a github name Jubasstech added a contributor by name Oluwasegun Olawale Benjamin.
 
 About the Projects
